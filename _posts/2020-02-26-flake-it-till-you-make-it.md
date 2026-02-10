@@ -2,9 +2,9 @@
 layout: post
 title: TBCCC (The Best Chocolate Chip Cookies)
 subtitle: This is my favorite recipe for making my favorite sweet treat EVER, chocolate chip cookies!
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/IMG_3122.jpeg
+thumbnail-img: /assets/img/IMG_3122.jpeg
+share-img: /assets/img/IMG_3122.jpeg
 tags: [chocolate chip cookies]
 author: Laura, from Joy Food Sunshine
 ---
