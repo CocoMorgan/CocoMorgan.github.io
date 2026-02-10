@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: CocoMorgan's Website
 
 # Your name to show in the footer
-author: Some Person
+author: Coco Morgan
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,9 +22,10 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Girl from Ipanema Cover: "https://www.youtube.com/watch?v=hg-uzsJCq0o"
+    - Affordable Housing Research Spotlight: "https://www.dwell.com/article/awesome-affordable-great-housing-now-frances-anderton-4f6e82b3-ad479a60"
+    - Tiny Homes Project: "https://www.marlborough.org/news/~board/student-life/post/real-world-impact-a-tiny-homes-project"  
+  Author's home: "https://csci.williams.edu/"
 
 ################
 # --- Logo --- #
