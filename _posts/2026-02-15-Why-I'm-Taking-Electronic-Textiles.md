@@ -9,7 +9,7 @@ tags: [Why Electronic Textiles]
 author: Coco Morgan
 ---
 
-My name's Coco Morgan, I'm a sophomore at Williams College, and I am a prospective Economics and Art History double-major.
+My name's Coco Morgan, I'm a sophomore at Williams College in the Class of 2028, and I am a prospective Economics and Art History double-major.
 
 I have no sewing experience, but I took an architecture class in high school that taught me how to use my creativity. The cover image is a photograph of some conceptual architecture models I made in high school. I'm hoping this past experience might benefit me as I learn to sew for the first time! 
 
