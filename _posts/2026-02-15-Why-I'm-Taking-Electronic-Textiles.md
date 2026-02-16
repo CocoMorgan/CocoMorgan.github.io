@@ -2,9 +2,9 @@
 layout: post
 title: Why I Am Taking Electronic Textiles
 subtitle: This is a post explaining why I am taking CSCI 103
-cover-img: https://cocomorgan.github.io/assets/img/Cookies.png
-thumbnail-img: https://cocomorgan.github.io/assets/img/Cookies.png
-share-img: https://cocomorgan.github.io/assets/img/Cookies.png
+cover-img: https://cocomorgan.github.io/assets/img/Conceptual_Architecture_Projects.png
+thumbnail-img: https://cocomorgan.github.io/assets/img/Conceptual_Architecture_Projects.png
+share-img: https://cocomorgan.github.io/assets/img/Conceptual_Architecture_Projects.png
 tags: [Why Electronic Textiles]
 author: Coco Morgan
 ---
