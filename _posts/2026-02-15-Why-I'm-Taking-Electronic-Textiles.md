@@ -11,7 +11,7 @@ author: Coco Morgan
 
 My name's Coco Morgan, I'm a sophomore at Williams College, and I am a prospective Economics and Art History double-major.
 
-I have no sewing experience, but I took an architecture class in high school that taught me how to use my creativity. The cover image is a photograph of a conceptual architecture model I made. I'm hoping this past experience might benefit me as I learn to sew for the first time! 
+I have no sewing experience, but I took an architecture class in high school that taught me how to use my creativity. The cover image is a photograph of some conceptual architecture models I made in high school. I'm hoping this past experience might benefit me as I learn to sew for the first time! 
 
 I have no programming experience, so I would say that is one of the things I'm looking forward to learning in this class. I would also say I hope to learn how to make textiles light up, which I remember a lot of my classmates also expressed when we had our first day of class.
 
