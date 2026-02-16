@@ -6,7 +6,7 @@ cover-img: https://cocomorgan.github.io/assets/img/Cookies.png
 thumbnail-img: https://cocomorgan.github.io/assets/img/Cookies.png
 share-img: https://cocomorgan.github.io/assets/img/Cookies.png
 tags: [chocolate chip cookies]
-author: Laura from Joy Food Sunshine
+author: Coco Morgan (OG recipe from Laura at Joy Food Sunshine)
 ---
 
 When it's cold outside, the number one thing I always reach for to comfort myself is, drumroll please....chocolate chip cookies! 
