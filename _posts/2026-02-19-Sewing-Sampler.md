@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sewing Sampler: Overview & Tips/Tricks
+title: Sewing Sampler & Tips/Tricks
 subtitle: This is a post showing of the sewing sampler I made for CSCI 103
 cover-img: https://CocoMorgan.github.io/assets/img/Conceptual_Arch_Projects.png
 thumbnail-img: https://CocoMorgan.github.io/assets/img/Conceptual_Arch_Projects.png
