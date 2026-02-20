@@ -2,9 +2,9 @@
 layout: post
 title: Sewing Sampler & Tips/Tricks
 subtitle: This is a post showing of the sewing sampler I made for CSCI 103
-cover-img: https://CocoMorgan.github.io/assets/img/front-side.png
-thumbnail-img: https://CocoMorgan.github.io/assets/img/front-side.png
-share-img: https://CocoMorgan.github.io/assets/img/front-side.png
+cover-img: https://CocoMorgan/CocoMorgan.github.io/assets/img/IMG_0474.jpeg
+thumbnail-img: https://CocoMorgan/CocoMorgan.github.io/assets/img/IMG_0474.jpeg
+share-img: https://CocoMorgan/CocoMorgan.github.io/assets/img/IMG_0474.jpeg
 tags: [Sewing Sampler]
 author: Coco Morgan
 ---
