@@ -2,16 +2,16 @@
 layout: post
 title: ASCII Extra Credit Assignment
 subtitle: This is a post showing my submission for the ASCII Art extra credit assignment
-cover-img: https://github.com/CocoMorgan.github.io/assets/img/ascii.png
-thumbnail-img: https://github.com/CocoMorgan.github.io/assets/img/ascii.png
-share-img: https://github.com/CocoMorgan.github.io/assets/img/ascii.png
+cover-img: https://github.com/CocoMorgan.github.io/assets/img/ascii-art.jpg
+thumbnail-img: https://github.com/CocoMorgan.github.io/assets/img/ascii-art.jpg
+share-img: https://github.com/CocoMorgan.github.io/assets/img/ascii-art.jpg
 tags: [ASCII Art Extra Credit]
 author: Coco Morgan (ASCII Art from Iris Howley's Class Slides)
 ---
 
 Here is the ASCII Art for my Extra Credit Submission - credit is to Iris Howley's 04-mod-programming class slides (slide #34)
 
-![Screenshot](https://github.com/CocoMorgan.github.io/assets/img/ascii.png)
+![Screenshot](https://github.com/CocoMorgan.github.io/assets/img/ascii-art.jpg)
 
 This program uses ASCII Art to recreate a giraffe through c-programming!
 
