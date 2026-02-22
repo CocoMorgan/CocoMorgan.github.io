@@ -13,4 +13,8 @@ Here's a photo of the back and front of my sewing sampler I made for CSCI 103! B
 
 One tip or trick for the 'past me' for approaching this assignment better would be to use an embroidery hoop for doing a satin stitch. Because I did not use an embroidery hoop when doing this assignment, for the satin stitch, I had some difficulty with keeping thread tension and having a completely flat surface. But, I am still really proud of my sewing sample and all of the stitches I was able to accomplish during my first time sewing!
 
-Here is the [front side](https://CocoMorgan.github.io/assets/img/IMG_0474.jpeg) and the [back side](https://CocoMorgan.github.io/assets/img/IMG_0475.jpeg)
+Here is the front side!
+![Back side](https://CocoMorgan.github.io/assets/img/IMG_0474.jpeg)
+
+Here is the back side!
+![Back side](https://CocoMorgan.github.io/assets/img/IMG_0475.jpeg)
