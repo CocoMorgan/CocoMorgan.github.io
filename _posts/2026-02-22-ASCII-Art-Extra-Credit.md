@@ -10,6 +10,7 @@ author: Coco Morgan (ASCII Art from Iris Howley's Class Slides)
 ---
 
 Here is the ASCII Art for my Extra Credit Submission - credit is to Iris Howley's 04-mod-programming class slides (slide #34)
+
 ![Screenshot](https://github.com/CocoMorgan.github.io/assets/img/ASCII.jpeg)
 
 This program uses ASCII Art to recreate a giraffe through c-programming!
