@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sweater Weather
-subtitle: This is a post describing my submission for the Sweater Weather assignment.
+subtitle: This is a post describing my submission for the Sweater Weather assignment
 cover-img: https://CocoMorgan.github.io/assets/img/Sweater-Weather-Debug-Console.jpeg
 thumbnail-img: https://CocoMorgan.github.io/assets/img/Sweater-Weather-Debug-Console.jpeg
 share-img: https://CocoMorgan.github.io/assets/img/Sweater-Weather-Debug-Console.jpeg
