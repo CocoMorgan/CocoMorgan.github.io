@@ -16,7 +16,7 @@ I started this project by first making a paper prototype in order to plan the ci
 I used a running stitch for the electrical connections (conductive thread) and whip switches to assemble the plushy (non-conductive thread), which gave me more practice in doing neat stitches. Overall, I would say this project taught me a lot of patience, helped me to to better understand circuits in a hands-on way, and gave me more practice with sewing and design.
 
 Here is a photo of the Plushy Paper Prototype!
-![screenshot](https://CocoMorgan.github.io/assets/img/Sweater-Weather-Debug-Console.jpeg)
+![screenshot](https://CocoMorgan.github.io/assets/img/IMG_0698.jpeg)
 
 Here is a photo of the alligator prototyping stage of the Plushy. Note that I did this after sewing the components into the felt, but I have approval from Professor Howley for this.
 ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_0697.jpeg)
