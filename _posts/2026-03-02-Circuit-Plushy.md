@@ -19,7 +19,7 @@ Here is a photo of the Plushy Paper Prototype!
 ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_0698.jpeg)
 
 Here is a photo of the alligator prototyping stage of the Plushy. Note that I did this after sewing the components into the felt, but I have approval from Professor Howley for this.
-![screenshot](https://CocoMorgan.github.io/assets/img/IMG_0697.jpeg)
+![screenshot](https://CocoMorgan.github.io/assets/img/IMG_0696.jpeg)
 
 Here is a photo of the front of my completed plush! 
 ![screenshot](https://CocoMorgan.github.io/assets/img/Sweater-Weather-Debug-Console.jpeg)
