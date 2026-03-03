@@ -2,9 +2,9 @@
 layout: post
 title: Circuit Plushy
 subtitle: This is a post describing my submission for the Circuit Plushy assignment
-cover-img: https://CocoMorgan.github.io/assets/img/paper.jpeg
-thumbnail-img: https://CocoMorgan.github.io/assets/img/paper.jpeg
-share-img: https://CocoMorgan.github.io/assets/img/paper.jpeg
+cover-img: https://CocoMorgan.github.io/assets/img/front.jpeg
+thumbnail-img: https://CocoMorgan.github.io/assets/img/front.jpeg
+share-img: https://CocoMorgan.github.io/assets/img/front.jpeg
 tags: [Circuit Plushy]
 author: Coco Morgan
 ---
@@ -25,7 +25,7 @@ Here is a photo of the front of my completed plush!
 ![screenshot](https://CocoMorgan.github.io/assets/img/Sweater-Weather-Debug-Console.jpeg)
 
 Here is a photo of the back of my completed plush!
-![screenshot](https://CocoMorgan.github.io/assets/img/Sweater-Weather-Debug-Console.jpeg)
+![screenshot](https://CocoMorgan.github.io/assets/img/back.jpeg)
 
 A general tip I would give my past self for completing this assignment is to have patience and work slowly. First, when I was working with conductive thread, I learned very quickly that it can easily get tangled easily and break, so my advice is to work slowly. Second, I tried to follow a SparkFun post that said to break off components, which I've now learned will make my life a lot harder in the future - again, this mistake was a reminder to work slowly and reach out to my Professor and/or TAs before making big decisions. Finally, I learned that the entire reason why my LEDs weren't turning on in office hours with Professor Howley was because my battery had a gold piece that broke off. Again, this was a reminder to work slowly, have patience, especially because at this point I was feeling really frustrated, and be extremely gentle with the components of the project. So, overall: have patience, stay calm, and move slowly because that will actually save you time in the long-run.
 
