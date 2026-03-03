@@ -22,7 +22,7 @@ Here is a photo of the alligator prototyping stage of the Plushy. Note that I di
 ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_0696.jpeg)
 
 Here is a photo of the front of my completed plush! 
-![screenshot](https://CocoMorgan.github.io/assets/img/Sweater-Weather-Debug-Console.jpeg)
+![screenshot](https://CocoMorgan.github.io/assets/img/front.jpeg)
 
 Here is a photo of the back of my completed plush!
 ![screenshot](https://CocoMorgan.github.io/assets/img/back.jpeg)
