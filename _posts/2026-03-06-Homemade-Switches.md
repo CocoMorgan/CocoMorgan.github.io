@@ -21,7 +21,7 @@ Here is a screenshot of the back of my completed light-up project!
 ![screenshot](https://CocoMorgan.github.io/assets/img/switch-back.jpeg)
 
 Here is a photo of the alligator prototyping stage of the project!
-![screenshot](https://CocoMorgan.github.io/assets/img/Alligator-Clips.jpeg)
+![screenshot](https://CocoMorgan.github.io/assets/img/clips.jpeg)
 
 Here is a photo of the Paper Prototype!
 ![screenshot](https://CocoMorgan.github.io/assets/img/pp-homemade-switches.jpeg)
