@@ -15,7 +15,7 @@ A tip I would give my past self in completing this assignment would be to be mor
 
 Here are two screenshots of the front of my completed light-up project (one lit up, one not)!
 ![screenshot](https://CocoMorgan.github.io/assets/img/light-switch-front.jpeg)
-![screenshot](https://CocoMorgan.github.io/assets/img/switch-front.jpeg)
+![screenshot](https://CocoMorgan.github.io/assets/img/switchfront.jpeg)
 
 Here is a screenshot of the back of my completed light-up project!
 ![screenshot](https://CocoMorgan.github.io/assets/img/backswitch.jpeg)
