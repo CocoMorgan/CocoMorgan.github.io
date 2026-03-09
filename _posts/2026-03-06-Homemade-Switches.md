@@ -18,7 +18,7 @@ Here are two screenshots of the front of my completed light-up project (one lit 
 ![screenshot](https://CocoMorgan.github.io/assets/img/switch-front.jpeg)
 
 Here is a screenshot of the back of my completed light-up project!
-![screenshot](https://CocoMorgan.github.io/assets/img/switch-back.jpeg)
+![screenshot](https://CocoMorgan.github.io/assets/img/backswitch.jpeg)
 
 Here is a photo of the alligator prototyping stage of the project!
 ![screenshot](https://CocoMorgan.github.io/assets/img/clips.jpeg)
