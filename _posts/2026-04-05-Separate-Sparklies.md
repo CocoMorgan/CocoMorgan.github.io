@@ -2,9 +2,9 @@
 layout: post
 title: Separate Sparklies (Mid-sem Proj 1)
 subtitle: This is a post describing my submission for the Separate Sparklies (Mid-sem Proj 1) assignment
-cover-img: https://CocoMorgan.github.io/assets/img/rgp-led-loop.jpeg
-thumbnail-img: https://CocoMorgan.github.io/assets/img/rgp-led-loop.jpeg
-share-img: https://CocoMorgan.github.io/assets/img/rgp-led-loop.jpeg
+cover-img: https://CocoMorgan.github.io/assets/img/synchronous.jpeg
+thumbnail-img: https://CocoMorgan.github.io/assets/img/synchronous.jpeg
+share-img: https://CocoMorgan.github.io/assets/img/synchronous.jpeg
 tags: [Separate Sparklies]
 author: Coco Morgan
 ---
@@ -20,4 +20,4 @@ Here is a photo of my working LED for the Big Dipper portion!
 ![screenshot](https://CocoMorgan.github.io/assets/img/DE930BD7-41A9-4F0C-8804-B48EC0194BC0_4_5005_c.jpeg)
 
 Here is a photo of my working LED for the Synchronous portion!
-![screenshot](https://CocoMorgan.github.io/assets/img/rgp-led-loop.jpeg)
+![screenshot](https://CocoMorgan.github.io/assets/img/synchronous.jpeg)
