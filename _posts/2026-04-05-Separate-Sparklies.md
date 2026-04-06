@@ -17,7 +17,7 @@ Here is a photo of my working LED for the Flash Bulb portion!
 ![screenshot](https://CocoMorgan.github.io/assets/img/rgp-led-loop.jpeg)
 
 Here is a photo of my working LED for the Big Dipper portion!
-![screenshot](https://CocoMorgan.github.io/assets/img/rgp-led-loop.jpeg)
+![screenshot](https://CocoMorgan.github.io/assets/img/DE930BD7-41A9-4F0C-8804-B48EC0194BC0_4_5005_c.jpeg)
 
 Here is a photo of my working LED for the Synchronous portion!
 ![screenshot](https://CocoMorgan.github.io/assets/img/rgp-led-loop.jpeg)
