@@ -9,7 +9,7 @@ tags: [Random Colors]
 author: Coco Morgan
 ---
 
-For the Random Colors assignment, I wrote an Arduino program that turns an RGB LED with a random color when a button is being pressed, and each time the button is pressed a new random color is chosen. When the button is being pressed, the color stays the same and does not change. Only until the button is released for the LED turn off.
+For the Random Colors assignment, I wrote an Arduino program that turns an RGB LED with a random color when a button is being pressed, and each time the button is pressed a new random color is chosen. When the button is being pressed, the color stays the same and does not change. Only until the button is released does the LED turn off.
 
 A tip I would give my past self in completing this assignment would be _.
 
