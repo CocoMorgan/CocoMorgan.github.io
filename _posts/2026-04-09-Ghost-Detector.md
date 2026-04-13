@@ -9,7 +9,7 @@ tags: [Ghost Detector]
 author: Coco Morgan
 ---
 
-For the Ghost Detector assignment, I wrote an Arduino program that _.
+For the Ghost Detector assignment, I wrote an Arduino program that, when it is both cold and dark enough for ghosts to be nearby, turns on all of the red LEDs (including the on-board RGBD LED).
 
 A tip I would give my past self in completing this assignment would be to try speaking my code aloud when I'm trying to debug. Even if I might sound slightly silly, walking through my code aloud when I was trying to troubleshoot errors helped me catch what was going on.
 
