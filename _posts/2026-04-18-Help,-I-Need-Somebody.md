@@ -11,7 +11,7 @@ author: Coco Morgan
 
 For the Help, I Need Somebody assignment, I wrote an Arduino program that plays morse code for my name, Coco, or SOS when the switch is closed.
 
-A tip I would give my past self in completing this assignment would be to command F variable names before running my code because I often had small spelling errors that added up when I ran the code after writing it.
+A tip I would give my past self in completing this assignment would be to command F variable names before running my code because I often had small spelling errors that added up when I ran the code after writing it, and became really annoying and time consuming to fix later on.
 
 Here is a photo of my Arduino kit set-up!
 ![screenshot](https://CocoMorgan.github.io/assets/img/help-image.jpg)
