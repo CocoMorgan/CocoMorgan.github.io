@@ -9,7 +9,7 @@ tags: [Help, I Need Somebody]
 author: Coco Morgan
 ---
 
-For the Help, I Need Somebody assignment, I wrote an Arduino program that _.
+For the Help, I Need Somebody assignment, I wrote an Arduino program that plays morse code for my name, Coco, or SOS when the switch is closed.
 
 A tip I would give my past self in completing this assignment would be _.
 
