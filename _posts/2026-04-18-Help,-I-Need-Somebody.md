@@ -9,7 +9,7 @@ tags: [Help, I Need Somebody]
 author: Coco Morgan
 ---
 
-For the Help, I Need Somebody assignment, I wrote an Arduino program that plays morse code for my name, Coco, or SOS when the switch is closed.
+For the Help, I Need Somebody assignment, I wrote an Arduino program that plays morse code for my name, Coco, when the switch is open, or SOS when the switch is closed, using alligator clips.
 
 A tip I would give my past self in completing this assignment would be to command F variable names before running my code because I often had small spelling errors that added up when I ran the code after writing it, and became really annoying and time consuming to fix later on.
 
