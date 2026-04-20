@@ -5,7 +5,7 @@ subtitle: This is a post describing my submission for the Help, I Need Somebody 
 cover-img: https://CocoMorgan.github.io/assets/img/help-image.jpg
 thumbnail-img: https://CocoMorgan.github.io/assets/img/help-image.jpg
 share-img: https://CocoMorgan.github.io/assets/img/help-image.jpg
-tags: [Help, I Need Somebody]
+tags: [Help I Need Somebody]
 author: Coco Morgan
 ---
 
