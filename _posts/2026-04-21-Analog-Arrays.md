@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analog Arrays
-subtitle: This is a post describing my submission for the Help, I Need Somebody assignment
+subtitle: This is a post describing my submission for the Analog Arrays assignment
 cover-img: https://CocoMorgan.github.io/assets/img/help-image.jpg
 thumbnail-img: https://CocoMorgan.github.io/assets/img/help-image.jpg
 share-img: https://CocoMorgan.github.io/assets/img/help-image.jpg
