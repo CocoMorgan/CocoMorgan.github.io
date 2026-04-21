@@ -11,7 +11,7 @@ author: Coco Morgan
 
 For the Analog Arrays assignment, I wrote an Arduino program that _.
 
-A tip I would give my past self in completing this assignment would be _.
+A tip I would give my past self in completing this assignment would be to start on it earlier. Especially during this time of year where my course loads are starting to pick up nearing the end of the semester, I should have started this assingment earlier, especially because we also had the Project Proposal due. I found myself quite stressed working on this because I didn't have a ton of time.
 
 Here is a photo of output working!
 ![screenshot](https://CocoMorgan.github.io/assets/img/help-image.jpg)
