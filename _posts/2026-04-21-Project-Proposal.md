@@ -16,4 +16,4 @@ author: Coco Morgan
 Here is a photo 1300x730 pixels image for the Project Proposal assignment!
 ![screenshot](https://CocoMorgan.github.io/assets/img/Project-Proposal1.jpg)
 
-*NOTE*, I'm not sure if we went over this in class, but I used this source to learned how to underline in Github: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+NOTE: I'm not sure if we went over this in class, but I used this source to learned how to underline in Github: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
