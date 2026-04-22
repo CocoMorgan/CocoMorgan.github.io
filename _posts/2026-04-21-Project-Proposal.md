@@ -2,9 +2,9 @@
 layout: post
 title: Project Proposal
 subtitle: This is a post for my submission for the Project Proposal assignment
-cover-img: https://CocoMorgan.github.io/assets/img/Project-Proposal1.jpg
-thumbnail-img: https://CocoMorgan.github.io/assets/img/Project-Proposal1.jpg
-share-img: https://CocoMorgan.github.io/assets/img/Project-Proposal1.jpg
+cover-img: https://CocoMorgan.github.io/assets/img/PP2.jpg
+thumbnail-img: https://CocoMorgan.github.io/assets/img/PP2.jpg
+share-img: https://CocoMorgan.github.io/assets/img/PP2.jpg
 tags: [Project Proposal]
 author: Coco Morgan
 ---
@@ -14,6 +14,6 @@ author: Coco Morgan
 <ins>Motivation</ins>: ​As an art history major, I wanted to create a project inspired by the 2025 Louvre Jewelry Heist. Specifically, I'm really interested in how museums protect their valuable items, so in this project I explore how we can use technology to improve museum security.
 
 Here is a photo 1300x730 pixels image for the Project Proposal assignment!
-![screenshot](https://CocoMorgan.github.io/assets/img/Project-Proposal1.jpg)
+![screenshot](https://CocoMorgan.github.io/assets/img/PP2.jpg)
 
 NOTE: I'm not sure if we went over this in class, but I used this source to learned how to underline in Github: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
