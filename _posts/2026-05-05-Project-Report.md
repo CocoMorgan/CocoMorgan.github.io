@@ -16,14 +16,14 @@ author: Coco Morgan
 <ins>Motivation</ins>: As an art history major, I wanted to create a project inspired by the 2025 Louvre Jewelry Heist. Specifically, I'm really interested in how museums protect their valuable items, so in this project I explore how we can use technology to improve museum security.
 
 (2) Comprehensive Materials List
-` - One LilyPad Arduino
-` - One LilyPad Buzzer
-` - One LilyPad Light Sensor
-` - Seven LilyPad LEDs (Four Green and Three Red)
-` - Felt (White, Red, and Green)
-` - Conductive Thread
-` - Conductive Fabric (Homemade Button)
-` - Thread (Green, White, and Red)
+ - One LilyPad Arduino
+ - One LilyPad Buzzer
+ - One LilyPad Light Sensor
+ - Seven LilyPad LEDs (Four Green and Three Red)
+ - Felt (White, Red, and Green)
+ - Conductive Thread
+ - Conductive Fabric (Homemade Button)
+ - Thread (Green, White, and Red)
 
 (3) Screenshot of my Revised Digital Paper Prototype of My Project
 ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
@@ -32,15 +32,15 @@ author: Coco Morgan
 ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
 
 (5) Photo of at least 3 States of My Working Project (or Video or Gif) --> Show What it Looks like When it Works
-` - ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
-` - ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
-` - ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
+ - ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
+ - ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
+ - ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
 
 (6) Three Tips to My Past Self
-` - My first tip to myself is to be careful when sewing with conductive thread and making sure your positive and negative traces don't touch. After I tested my paper prototype with my code and alligator clips in office hours with Professor Howley, which she approved of, and I started sewing the project, while I used tabs to seprate the positive and negative traces, I wasn't careful with where I was piercing and i accidentally connected a positive trade with a negative trace below the felt tab. So, my tip is to work more slowly and think more critically before I work on the final version. 
-` - My second tip to myself is to be really careful with the conductive thread. When I was sewing my components together, I did not remember how finnicky this thread can be, and there ended up being so many different times where either my conductive thread would break because I wasn't being gentle enough or my conductive thread would knot. So, I need to work more slowly, and perhaps it would have been helpful to, before starting my project, looking at my past tips to self on my website because then I might have been able to prevent this mistake.
-` - my third tip to myself is think more critically when making my homemade button. I originally had sewn a single conductive patch that was connectedto A4 and the (-) ground, which is bad because it connected both positive and negative traces. However, after working with Professor Howley and realizing how I needed to crete two separate postive and negative conductive fabric tabs that the conductive fabric glove would connect with (making the homemade button), I was able to correct my mistake. Before I fixed my mistake, my project was starting to get ~really warm~ and honestly started smelling slightly smokey, so that should have been a sign that something was wrong.
+ - My first tip to myself is to be careful when sewing with conductive thread and making sure your positive and negative traces don't touch. After I tested my paper prototype with my code and alligator clips in office hours with Professor Howley, which she approved of, and I started sewing the project, while I used tabs to seprate the positive and negative traces, I wasn't careful with where I was piercing and i accidentally connected a positive trade with a negative trace below the felt tab. So, my tip is to work more slowly and think more critically before I work on the final version. 
+ - My second tip to myself is to be really careful with the conductive thread. When I was sewing my components together, I did not remember how finnicky this thread can be, and there ended up being so many different times where either my conductive thread would break because I wasn't being gentle enough or my conductive thread would knot. So, I need to work more slowly, and perhaps it would have been helpful to, before starting my project, looking at my past tips to self on my website because then I might have been able to prevent this mistake.
+ - my third tip to myself is think more critically when making my homemade button. I originally had sewn a single conductive patch that was connectedto A4 and the (-) ground, which is bad because it connected both positive and negative traces. However, after working with Professor Howley and realizing how I needed to crete two separate postive and negative conductive fabric tabs that the conductive fabric glove would connect with (making the homemade button), I was able to correct my mistake. Before I fixed my mistake, my project was starting to get ~really warm~ and honestly started smelling slightly smokey, so that should have been a sign that something was wrong.
 
 (7) Citations of any resources used
-` - How to do bullet points in Github: https://github.com/orgs/community/discussions/145225
-` - 2025 Louvre Heist: https://www.nytimes.com/interactive/2025/10/20/world/europe/louvre-robbery-jewelry-heist-photos-maps.html
+ - How to do bullet points in Github: https://github.com/orgs/community/discussions/145225
+ - 2025 Louvre Heist: https://www.nytimes.com/interactive/2025/10/20/world/europe/louvre-robbery-jewelry-heist-photos-maps.html
