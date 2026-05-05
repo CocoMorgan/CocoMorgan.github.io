@@ -42,6 +42,6 @@ author: Coco Morgan
  - My second tip to myself is to be really careful with the conductive thread. When I was sewing my components together, I did not remember how finnicky this thread can be, and there ended up being so many different times where either my conductive thread would break because I wasn't being gentle enough or my conductive thread would knot. So, I need to work more slowly, and perhaps it would have been helpful to, before starting my project, looking at my past tips to self on my website because then I might have been able to prevent this mistake.
  - my third tip to myself is think more critically when making my homemade button. I originally had sewn a single conductive patch that was connectedto A4 and the (-) ground, which is bad because it connected both positive and negative traces. However, after working with Professor Howley and realizing how I needed to crete two separate postive and negative conductive fabric tabs that the conductive fabric glove would connect with (making the homemade button), I was able to correct my mistake. Before I fixed my mistake, my project was starting to get ~really warm~ and honestly started smelling slightly smokey, so that should have been a sign that something was wrong.
 
-(7) Citations of any resources used
+(7) Citations of Any Resources Used
  - How to do bullet points in Github: https://github.com/orgs/community/discussions/145225
  - 2025 Louvre Heist: https://www.nytimes.com/interactive/2025/10/20/world/europe/louvre-robbery-jewelry-heist-photos-maps.html
