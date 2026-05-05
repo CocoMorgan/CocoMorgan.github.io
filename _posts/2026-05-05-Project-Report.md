@@ -9,6 +9,7 @@ tags: [Paper Report]
 author: Coco Morgan
 ---
 (1) Project Title, Description, and Motivation
+
 <ins>Project Title</ins>: Louvre Heist Security Alarm System
 
 <ins>Description</ins>: This project simulates a high-security museum display reacting to theft. A felt copy of a Louvre jewelry necklace will glow green under normal conditions. When a black glove hovers over the piece (mimicing the theif trying to steal the jewelry), the glove will cass a shadow detected by a light sensor. Only when the glove both creates this shadow and touches a homemade button on the necklace (using conductive fabric patches on the glove and necklace) does the system trigger an alarm. Red LEDs will blink and a buzzer will sound.
