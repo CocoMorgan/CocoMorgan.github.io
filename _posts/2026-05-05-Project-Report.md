@@ -44,7 +44,7 @@ Two Photos of My Project Throughout the Process:
 Photos/Video of My Working Project
  - ![Green Glowing LOW Brightness](https://CocoMorgan.github.io/assets/img/IMG_4748.jpeg)
  - ![Green Glowing HIGH Brightness](https://CocoMorgan.github.io/assets/img/IMG_4746.jpeg)
- - ![Alarm System Activated (Buzzer & Light Sensor active red blinking LEDs)] 
+ - ![Alarm System Activated (Buzzer & Light Sensor active red blinking LEDs)](https://CocoMorgan.github.io/assets/img/IMG_4747.jpeg)
  - ![Video of Working Project](https://CocoMorgan.github.io/assets/img/IMG_4744 copy.mov)
 
 (6) Three Tips to My Past Self
