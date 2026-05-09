@@ -2,9 +2,9 @@
 layout: post
 title: Paper Report
 subtitle: This is a post for my submission for the Paper Report assignment
-cover-img: https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg
-thumbnail-img: https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg
-share-img: https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg
+cover-img: https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg
+thumbnail-img: https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg
+share-img: https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg
 tags: [Paper Report]
 author: Coco Morgan
 ---
@@ -34,12 +34,12 @@ author: Coco Morgan
 ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
 
 (4) Photo of My Alligator Prototype Working
-![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4239.jpg)
+![screenshot](https://CocoMorgan.github.io/assets/img/Slide1.jpg)
 
 (5) Photo of at least 3 States of My Working Project (or Video or Gif) --> Show What it Looks like When it Works
  - ![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender_2 (5).jpg)
  - ![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg)
- - ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
+ - ![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg)
 
 (6) Three Tips to My Past Self
  - My first tip to myself is to be careful when sewing with conductive thread and making sure your positive and negative traces don't touch. After I tested my paper prototype with my code and alligator clips in office hours with Professor Howley, which she approved of, and I started sewing the project, while I used tabs to seprate the positive and negative traces, I wasn't careful with where I was piercing and i accidentally connected a positive trade with a negative trace below the felt tab. So, my tip is to work more slowly and think more critically before I work on the final version. 
