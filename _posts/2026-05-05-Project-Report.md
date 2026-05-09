@@ -24,10 +24,11 @@ author: Coco Morgan
  - Felt (White, Red, and Green)
  - Conductive Thread
  - Conductive Fabric (Homemade Button)
- - Thread (Green, White, and Red)
- - Hot Glue
  - Pearls
  - Green Buttons
+ - Thread (Green, White, and Red)
+ - Scissors
+ - Hot Glue
 
 (3) Screenshot of my Revised Digital Paper Prototype of My Project
 ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
