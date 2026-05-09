@@ -25,6 +25,9 @@ author: Coco Morgan
  - Conductive Thread
  - Conductive Fabric (Homemade Button)
  - Thread (Green, White, and Red)
+ - Hot Glue
+ - Pearls
+ - Green Buttons
 
 (3) Screenshot of my Revised Digital Paper Prototype of My Project
 ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
