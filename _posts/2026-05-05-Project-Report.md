@@ -42,7 +42,7 @@ Two Photos of My Project Throughout the Process:
  - ![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg)
 
 Photos/Video of My Working Project
- - ![Green Glowing LOW Brightness](https://CocoMorgan.github.io/assets/img/FullSizeRender_2 (5).jpg)
+ - ![Green Glowing LOW Brightness](https://CocoMorgan.github.io/assets/img/IMG_4748.jpeg)
  - ![Green Glowing HIGH Brightness](https://CocoMorgan.github.io/assets/img/FullSizeRender_2 (5).jpg)
  - ![Alarm System Activated (Buzzer & Light Sensor active red blinking LEDs)] 
  - ![Video of Working Project](https://CocoMorgan.github.io/assets/img/IMG_4744 copy.mov)
