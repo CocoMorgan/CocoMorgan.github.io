@@ -58,6 +58,7 @@ author: Coco Morgan
 Your browser does not support the video tag.
  </video>
 
+
 (6) Three Tips to My Past Self
  - My first tip to myself is to be careful when sewing with conductive thread and making sure your positive and negative traces don't touch. After I tested my paper prototype with my code and alligator clips in office hours with Professor Howley, which she approved of, and I started sewing the project, while I used tabs to seprate the positive and negative traces, I wasn't careful with where I was piercing and i accidentally connected a positive trade with a negative trace below the felt tab. So, my tip is to work more slowly and think more critically before I work on the final version. 
  - My second tip to myself is to be really careful with the conductive thread. When I was sewing my components together, I did not remember how finicky this thread can be, so there ended up being a lot of different times where either my conductive thread would break because I wasn't being gentle enough or my conductive thread would knot. So, my tip is to work more slowly. Also, it would have been helpful before starting my project to look at my past tips to self on my website because then I might have been able to prevent this mistake (this is something that's happened in the past that I've had trouble with).
