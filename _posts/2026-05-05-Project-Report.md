@@ -49,7 +49,7 @@ author: Coco Morgan
 (C) Alarm System Activated (Buzzer & Light Sensor active red blinking LEDs:
 ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4747.jpeg)
 (D) Video of Working Project:
-![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4744 copy.mov)
+![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4744.mov)
 
 (6) Three Tips to My Past Self
  - My first tip to myself is to be careful when sewing with conductive thread and making sure your positive and negative traces don't touch. After I tested my paper prototype with my code and alligator clips in office hours with Professor Howley, which she approved of, and I started sewing the project, while I used tabs to seprate the positive and negative traces, I wasn't careful with where I was piercing and i accidentally connected a positive trade with a negative trace below the felt tab. So, my tip is to work more slowly and think more critically before I work on the final version. 
