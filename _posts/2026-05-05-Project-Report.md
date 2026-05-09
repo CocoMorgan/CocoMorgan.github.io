@@ -39,7 +39,7 @@ author: Coco Morgan
 (5) Photo of at least 3 States of My Working Project (or Video or Gif) --> Show What it Looks like When it Works
  - ![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender_2 (5).jpg)
  - ![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg)
- - ![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg)
+ - ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4744 copy.mov)
 
 (6) Three Tips to My Past Self
  - My first tip to myself is to be careful when sewing with conductive thread and making sure your positive and negative traces don't touch. After I tested my paper prototype with my code and alligator clips in office hours with Professor Howley, which she approved of, and I started sewing the project, while I used tabs to seprate the positive and negative traces, I wasn't careful with where I was piercing and i accidentally connected a positive trade with a negative trace below the felt tab. So, my tip is to work more slowly and think more critically before I work on the final version. 
