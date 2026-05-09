@@ -34,7 +34,7 @@ author: Coco Morgan
 
 (5) Photo of at least 3 States of My Working Project (or Video or Gif) --> Show What it Looks like When it Works
  - ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
- - ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
+ - ![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg)
  - ![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
 
 (6) Three Tips to My Past Self
