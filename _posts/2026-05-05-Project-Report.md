@@ -37,15 +37,19 @@ author: Coco Morgan
 ![screenshot](https://CocoMorgan.github.io/assets/img/Slide1.jpg)
 
 (5) Photo of at least 3 States of My Working Project (or Video or Gif) --> Show What it Looks like When it Works
-Two Photos of My Project Throughout the Process:
- -  ![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender_2 (5).jpg)
- - ![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg)
+*Two Photos of My Project Throughout the Process:*
+![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender_2 (5).jpg)
+![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg)
 
-Photos/Video of My Working Project
- - Green Glowing LOW Brightness: ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4748.jpeg)
- - Green Glowing HIGH Brightness: ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4746.jpeg)
- - Alarm System Activated (Buzzer & Light Sensor active red blinking LEDs: ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4747.jpeg)
- - Video of Working Project: ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4744 copy.mov)
+*Photos/Video of My Working Project*
+(A) Green Glowing LOW Brightness:
+![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4748.jpeg)
+(B) Green Glowing HIGH Brightness:
+![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4746.jpeg)
+(C) Alarm System Activated (Buzzer & Light Sensor active red blinking LEDs:
+![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4747.jpeg)
+(D) Video of Working Project:
+![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4744 copy.mov)
 
 (6) Three Tips to My Past Self
  - My first tip to myself is to be careful when sewing with conductive thread and making sure your positive and negative traces don't touch. After I tested my paper prototype with my code and alligator clips in office hours with Professor Howley, which she approved of, and I started sewing the project, while I used tabs to seprate the positive and negative traces, I wasn't careful with where I was piercing and i accidentally connected a positive trade with a negative trace below the felt tab. So, my tip is to work more slowly and think more critically before I work on the final version. 
