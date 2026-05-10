@@ -44,19 +44,19 @@ author: Coco Morgan
 *Photos/Video of My Working Project*
 
 (A) Green Glowing LOW Brightness:
+
 ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4748.jpeg)
 
 (B) Green Glowing HIGH Brightness:
+
 ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4746.jpeg)
 
 (C) Alarm System Activated (Buzzer & Light Sensor active red blinking LEDs:
+
 ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4747.jpeg)
 
 (D) Video of Working Project:
-<video width="600" controls> 
-<source src="https://CocoMorgan.github.io/assets/img/IMG_4744.mov" type="video/quicktime">
-Your browser does not support the video tag.
- </video>
+[watch the video demo](https://CocoMorgan.github.io/assets/img/IMG_4744.mov)
 
 
 (6) Three Tips to My Past Self
