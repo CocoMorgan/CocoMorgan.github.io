@@ -57,7 +57,7 @@ author: Coco Morgan
 
 (D) Video of Working Project:
 
-[![Watch the video demo](https://youtu.be/6zFYOGOKimA)
+[![Watch the video demo](https://img.youtube.com/vi/6zFYOGOKimA/hqdefault.jpg)](https://youtu.be/6zFYOGOKimA)
 
 
 (6) Three Tips to My Past Self
