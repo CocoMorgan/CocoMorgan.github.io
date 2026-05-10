@@ -31,7 +31,7 @@ author: Coco Morgan
  - Hot Glue
 
 (3) Screenshot of my Revised Digital Paper Prototype of My Project
-![screenshot](https://CocoMorgan.github.io/assets/img/Paper-Prototype.jpg)
+![screenshot](https://CocoMorgan.github.io/assets/img/Slide1.jpg)
 
 (4) Photo of My Alligator Prototype Working
 ![screenshot](https://CocoMorgan.github.io/assets/img/Slide1.jpg)
