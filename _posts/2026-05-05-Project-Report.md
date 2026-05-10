@@ -66,6 +66,6 @@ author: Coco Morgan
  - My third tip to myself is think more critically when making my homemade button. I originally had sewn a *single* conductive patch that was connected to A4 and the (-) ground, which is bad because it connected both positive and negative traces. However, after working with Professor Howley and realizing how I needed to create two separate postive and negative conductive fabric tabs that the conductive fabric glove would connect with (making a homemade button), I was able to correct my mistake. Before I fixed my mistake, my project was starting to get *really warm* and honestly started smelling slightly smokey, so that was another sign from early on that something was wrong.
 
 (7) Citations of Any Resources Used
- - [How to do bullet points in GitHub:](https://github.com/orgs/community/discussions/145225)
- - [2025 Louvre Heist:](https://www.nytimes.com/interactive/2025/10/20/world/europe/louvre-robbery-jewelry-heist-photos-maps.html)
- - [How to embed a video into GitHub using Youtube:](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
+ - [How to do bullet points in GitHub](https://github.com/orgs/community/discussions/145225)
+ - [2025 Louvre Heist](https://www.nytimes.com/interactive/2025/10/20/world/europe/louvre-robbery-jewelry-heist-photos-maps.html)
+ - [How to embed a video into GitHub using Youtube](https://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
