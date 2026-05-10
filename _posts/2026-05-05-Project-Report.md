@@ -56,7 +56,7 @@ author: Coco Morgan
 ![screenshot](https://CocoMorgan.github.io/assets/img/IMG_4747.jpeg)
 
 (D) Video of Working Project:
-[watch the video demo](https://CocoMorgan.github.io/assets/img/IMG_4744.mov)
+[![Watch the video demo](https://CocoMorgan.github.io/assets/img/IMG_4744.mov)](https://youtu.be/6zFYOGOKimA)
 
 
 (6) Three Tips to My Past Self
