@@ -34,7 +34,7 @@ author: Coco Morgan
 ![screenshot](https://CocoMorgan.github.io/assets/img/Slide1.jpg)
 
 (4) Photo of My Alligator Prototype Working
-![screenshot](https://CocoMorgan.github.io/assets/img/Slide1.jpg)
+![screenshot](https://CocoMorgan.github.io/assets/img/uuid=84D14537-7D64-4332-9CF5-546AE19ECBB5&code=001&library=3&type=1&mode=1&loc=true&cap=true.jpeg)
 
 (5) Photo of at least 3 States of My Working Project (or Video or Gif) --> Show What it Looks like When it Works
 
