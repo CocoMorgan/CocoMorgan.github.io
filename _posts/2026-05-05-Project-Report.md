@@ -38,10 +38,6 @@ author: Coco Morgan
 
 (5) Photo of at least 3 States of My Working Project (or Video or Gif) --> Show What it Looks like When it Works
 
-*Two Photos of My Project Throughout the Process:*
-![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender_2 (5).jpg)
-![screenshot](https://CocoMorgan.github.io/assets/img/FullSizeRender (9) copy.jpg)
-
 *Photos/Video of My Working Project*
 
 (A) Green Glowing LOW Brightness:
